@@ -20,7 +20,6 @@ I am 34 years old, I work at the Almaz plant as an adjuster of CNC machines, I r
 
     - mindfulness and being able to focus on tasks
    
-   - VS Code 
     
 ## Skills
 ---
